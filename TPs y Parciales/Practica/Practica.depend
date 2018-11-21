@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1538568968 source:e:\clase 13\practica\negocio.c
+
+1538874806 source:e:\clase 13\practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"employee.h"
+	"almuerzo.h"
+	"menu.h"
+	"sector.h"
+	"fecha.h"
+
+1538829176 source:e:\clase 13\practica\employee.c
+
+1538835762 source:e:\clase 13\practica\almuerzo.c
+
+1538829810 source:e:\clase 13\practica\comida.c
+
+1538830498 source:e:\clase 13\practica\sector.c
+
+1538831756 source:e:\clase 13\practica\fecha.c
+
+1538835762 e:\clase 13\practica\almuerzo.h
+	"fecha.h"
+
+1538831804 e:\clase 13\practica\fecha.h
+
+1538832004 e:\clase 13\practica\employee.h
+	"fecha.h"
+
+1538830670 e:\clase 13\practica\comida.h
+
+1538830670 e:\clase 13\practica\sector.h
+
+1538839966 e:\clase 13\practica\menu.h
+
+1538874842 source:e:\clase 13\practica\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"menu.h"
+	"utn.h"
+
+1538874708 source:e:\clase 13\practica\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1538592880 e:\clase 13\practica\utn.h
+
+1538835762 source:c:\users\familia\desktop\zahira\clase 13\practica\almuerzo.c
+
+1538969736 source:c:\users\familia\desktop\zahira\clase 13\practica\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"employee.h"
+	"utn.h"
+
+1538831756 source:c:\users\familia\desktop\zahira\clase 13\practica\fecha.c
+
+1538974820 source:c:\users\familia\desktop\zahira\clase 13\practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"employee.h"
+	"menu.h"
+	"almuerzo.h"
+
+1538968403 c:\users\familia\desktop\zahira\clase 13\practica\employee.h
+
+1538884256 c:\users\familia\desktop\zahira\clase 13\practica\fecha.h
+
+1538975195 c:\users\familia\desktop\zahira\clase 13\practica\almuerzo.h
+	"menu.h"
+	"employee.h"
+
+1538931606 c:\users\familia\desktop\zahira\clase 13\practica\menu.h
+
+1538926348 c:\users\familia\desktop\zahira\clase 13\practica\sector.h
+
+1538974246 source:c:\users\familia\desktop\zahira\clase 13\practica\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"menu.h"
+	"utn.h"
+	"employee.h"
+	"almuerzo.h"
+
+1538936948 c:\users\familia\desktop\zahira\clase 13\practica\utn.h
+
+1538830498 source:c:\users\familia\desktop\zahira\clase 13\practica\sector.c
+
+1538964545 source:c:\users\familia\desktop\zahira\clase 13\practica\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+

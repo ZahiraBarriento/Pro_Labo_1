@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1542769444 source:e:\tps y parciales\linkedlist\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"employee.h"
+	"utn.h"
+
+1542756170 e:\tps y parciales\linkedlist\parser.h
+	"LinkedList.h"
+
+1542763274 e:\tps y parciales\linkedlist\linkedlist.h
+
+1542763274 e:\tps y parciales\linkedlist\controller.h
+
+1542769282 e:\tps y parciales\linkedlist\employee.h
+
+1541809952 e:\tps y parciales\linkedlist\utn.h
+
+1542769282 source:e:\tps y parciales\linkedlist\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1542768812 source:e:\tps y parciales\linkedlist\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1542768712 source:e:\tps y parciales\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"LinkedList.h"
+
+1542756170 source:e:\tps y parciales\linkedlist\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+
+1541810322 source:e:\tps y parciales\linkedlist\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

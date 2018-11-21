@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540394038 source:e:\clase 18\ejercicio en clase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

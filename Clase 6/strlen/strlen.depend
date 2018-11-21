@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537142810 source:l:\clase 6\strlen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

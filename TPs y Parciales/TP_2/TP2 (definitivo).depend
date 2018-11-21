@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1538257652 source:c:\users\familia\desktop\tp2 (definitivo)\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1538527277 source:c:\users\familia\desktop\tp2 (definitivo)\arrayemployees.c
+	"ArrayEmployees.h"
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1538525898 c:\users\familia\desktop\tp2 (definitivo)\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+
+1538236200 c:\users\familia\desktop\tp2 (definitivo)\validaciones.h
+
+1538527432 source:c:\users\familia\desktop\tp2 (definitivo)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1538599172 source:e:\tp2 (definitivo)\arrayemployees.c
+	"ArrayEmployees.h"
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1538599172 e:\tp2 (definitivo)\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+
+1538428754 e:\tp2 (definitivo)\validaciones.h
+
+1538601530 source:e:\tp2 (definitivo)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1538428776 source:e:\tp2 (definitivo)\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1538522139 source:c:\users\familia\desktop\tp2 (definitivo)\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1538510641 c:\users\familia\desktop\tp2 (definitivo)\utn.h
+
+1538592880 e:\tp2 (definitivo)\utn.h
+
+1538593768 source:e:\tp2 (definitivo)\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+

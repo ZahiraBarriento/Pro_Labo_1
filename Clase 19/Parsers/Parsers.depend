@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540814226 source:f:\clase 19\parsers\main.c
+	<stdio.h>
+	<stdlib.h>
+

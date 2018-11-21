@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537225416 source:e:\clase 8\eempleado(orden con dos criterios)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

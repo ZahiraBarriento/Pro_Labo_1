@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537020788 source:f:\maximo y minimo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

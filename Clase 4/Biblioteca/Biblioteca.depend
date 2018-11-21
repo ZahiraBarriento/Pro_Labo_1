@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1514140574 source:l:\clase 4\biblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1537563920 source:e:\clase 4\biblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1537571426 source:e:\clase 4\biblioteca\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

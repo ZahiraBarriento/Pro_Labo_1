@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1537314934 source:e:\clase 7\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	"utn.h"
+
+1537314920 e:\clase 7\agenda\utn.h
+
+1537314920 source:e:\clase 7\agenda\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

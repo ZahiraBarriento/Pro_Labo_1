@@ -1,0 +1,538 @@
+# depslib dependency file v1.0
+1539008877 source:d:\barriento.zahira\parcial_laboratorio\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"cliente.h"
+	"juego.h"
+
+1539008600 source:d:\barriento.zahira\parcial_laboratorio\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"juego.h"
+	"alquileres.h"
+
+1539006607 source:d:\barriento.zahira\parcial_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"alquileres.h"
+	"juego.h"
+
+1539006203 source:d:\barriento.zahira\parcial_laboratorio\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1539008877 source:d:\barriento.zahira\parcial_laboratorio\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+
+1539006212 d:\barriento.zahira\parcial_laboratorio\utn.h
+
+1539008877 d:\barriento.zahira\parcial_laboratorio\cliente.h
+	"juego.h"
+
+1539005323 d:\barriento.zahira\parcial_laboratorio\alquileres.h
+	"juego.h"
+	"cliente.h"
+
+1539003928 d:\barriento.zahira\parcial_laboratorio\juego.h
+
+1540933450 source:c:\users\familia\desktop\parcial_laboratorio\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"juego.h"
+	"alquileres.h"
+
+1540929574 c:\users\familia\desktop\parcial_laboratorio\utn.h
+
+1540861704 c:\users\familia\desktop\parcial_laboratorio\juego.h
+
+1540928964 c:\users\familia\desktop\parcial_laboratorio\alquileres.h
+	"juego.h"
+	"cliente.h"
+
+1540767804 c:\users\familia\desktop\parcial_laboratorio\cliente.h
+	"juego.h"
+
+1540938101 source:c:\users\familia\desktop\parcial_laboratorio\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+
+1540929584 source:c:\users\familia\desktop\parcial_laboratorio\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1540927760 source:c:\users\familia\desktop\parcial_laboratorio\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"cliente.h"
+	"juego.h"
+
+1540931950 source:c:\users\familia\desktop\parcial_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"alquileres.h"
+	"juego.h"
+	"informes.h"
+
+1539182632 source:d:\barriento.zahira\fghfgh\progi_laboi\parcial_laboratorio\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+
+1539172121 d:\barriento.zahira\fghfgh\progi_laboi\parcial_laboratorio\utn.h
+
+1539172121 d:\barriento.zahira\fghfgh\progi_laboi\parcial_laboratorio\juego.h
+
+1539172121 d:\barriento.zahira\fghfgh\progi_laboi\parcial_laboratorio\cliente.h
+	"juego.h"
+
+1539182434 d:\barriento.zahira\fghfgh\progi_laboi\parcial_laboratorio\alquileres.h
+	"juego.h"
+	"cliente.h"
+
+1539172121 source:d:\barriento.zahira\fghfgh\progi_laboi\parcial_laboratorio\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"cliente.h"
+	"juego.h"
+
+1539181553 source:d:\barriento.zahira\fghfgh\progi_laboi\parcial_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"alquileres.h"
+	"juego.h"
+
+1539172121 source:d:\barriento.zahira\fghfgh\progi_laboi\parcial_laboratorio\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1539181553 source:d:\barriento.zahira\fghfgh\progi_laboi\parcial_laboratorio\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"juego.h"
+	"alquileres.h"
+
+1539173265 source:d:\barriento.zahira\fghfgh\progi_laboi\parcial_laboratorio\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+
+1540342628 source:e:\parcial_laboratorio\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"cliente.h"
+	"juego.h"
+
+1539172122 e:\parcial_laboratorio\utn.h
+
+1539172122 e:\parcial_laboratorio\cliente.h
+	"juego.h"
+
+1540324590 e:\parcial_laboratorio\juego.h
+
+1540326580 source:e:\parcial_laboratorio\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"juego.h"
+	"alquileres.h"
+
+1540327492 e:\parcial_laboratorio\alquileres.h
+	"juego.h"
+	"cliente.h"
+
+1540255296 source:e:\parcial_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"alquileres.h"
+	"juego.h"
+	"informes.h"
+
+1539172122 source:e:\parcial_laboratorio\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1540327340 source:e:\parcial_laboratorio\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+
+1540340030 e:\parcial_laboratorio\informes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+
+1540342524 source:e:\parcial_laboratorio\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+	"informes.h"
+
+1541551584 source:e:\tps y parciales\parcial_laboratorio\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+
+1540929574 e:\tps y parciales\parcial_laboratorio\utn.h
+
+1540861704 e:\tps y parciales\parcial_laboratorio\juego.h
+
+1540767804 e:\tps y parciales\parcial_laboratorio\cliente.h
+	"juego.h"
+
+1540928964 e:\tps y parciales\parcial_laboratorio\alquileres.h
+	"juego.h"
+	"cliente.h"
+
+1540927760 source:e:\tps y parciales\parcial_laboratorio\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"cliente.h"
+	"juego.h"
+
+1540995754 source:e:\tps y parciales\parcial_laboratorio\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"juego.h"
+	"alquileres.h"
+
+1540931950 source:e:\tps y parciales\parcial_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"alquileres.h"
+	"juego.h"
+	"informes.h"
+
+1541595916 e:\tps y parciales\parcial_laboratorio\informes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+
+1540929584 source:e:\tps y parciales\parcial_laboratorio\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1541559610 source:e:\tps y parciales\parcial_laboratorio\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+	"informes.h"
+
+1540938102 source:f:\tps y parciales\parcial_laboratorio\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+
+1540929574 f:\tps y parciales\parcial_laboratorio\utn.h
+
+1540861704 f:\tps y parciales\parcial_laboratorio\juego.h
+
+1540767804 f:\tps y parciales\parcial_laboratorio\cliente.h
+	"juego.h"
+
+1540928964 f:\tps y parciales\parcial_laboratorio\alquileres.h
+	"juego.h"
+	"cliente.h"
+
+1540927760 source:f:\tps y parciales\parcial_laboratorio\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"cliente.h"
+	"juego.h"
+
+1540995682 source:f:\tps y parciales\parcial_laboratorio\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+	"informes.h"
+
+1540995682 f:\tps y parciales\parcial_laboratorio\informes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+
+1540995754 source:f:\tps y parciales\parcial_laboratorio\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"juego.h"
+	"alquileres.h"
+
+1540931950 source:f:\tps y parciales\parcial_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"alquileres.h"
+	"juego.h"
+	"informes.h"
+
+1540929584 source:f:\tps y parciales\parcial_laboratorio\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1540933426 c:\users\familia\desktop\parcial_laboratorio\informes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+
+1540949759 source:c:\users\familia\desktop\parcial_laboratorio\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+	"informes.h"
+
+1541551584 source:l:\tps y parciales\parcial_laboratorio\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+
+1540929574 l:\tps y parciales\parcial_laboratorio\utn.h
+
+1540861704 l:\tps y parciales\parcial_laboratorio\juego.h
+
+1540767804 l:\tps y parciales\parcial_laboratorio\cliente.h
+	"juego.h"
+
+1540928964 l:\tps y parciales\parcial_laboratorio\alquileres.h
+	"juego.h"
+	"cliente.h"
+
+1540927760 source:l:\tps y parciales\parcial_laboratorio\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"cliente.h"
+	"juego.h"
+
+1540995754 source:l:\tps y parciales\parcial_laboratorio\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"juego.h"
+	"alquileres.h"
+
+1540931950 source:l:\tps y parciales\parcial_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"alquileres.h"
+	"juego.h"
+	"informes.h"
+
+1541559264 l:\tps y parciales\parcial_laboratorio\informes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+
+1540929584 source:l:\tps y parciales\parcial_laboratorio\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1541551520 source:l:\tps y parciales\parcial_laboratorio\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+	"informes.h"
+
+1541551584 source:e:\tps y parciales\barriento.zahira.1a\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+
+1540929574 e:\tps y parciales\barriento.zahira.1a\utn.h
+
+1540861704 e:\tps y parciales\barriento.zahira.1a\juego.h
+
+1540767804 e:\tps y parciales\barriento.zahira.1a\cliente.h
+	"juego.h"
+
+1540928964 e:\tps y parciales\barriento.zahira.1a\alquileres.h
+	"juego.h"
+	"cliente.h"
+
+1540927760 source:e:\tps y parciales\barriento.zahira.1a\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"cliente.h"
+	"juego.h"
+
+1541595920 source:e:\tps y parciales\barriento.zahira.1a\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+	"informes.h"
+
+1541595916 e:\tps y parciales\barriento.zahira.1a\informes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"juego.h"
+	"cliente.h"
+	"alquileres.h"
+
+1540995754 source:e:\tps y parciales\barriento.zahira.1a\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"juego.h"
+	"alquileres.h"
+
+1540931950 source:e:\tps y parciales\barriento.zahira.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"alquileres.h"
+	"juego.h"
+	"informes.h"
+
+1540929584 source:e:\tps y parciales\barriento.zahira.1a\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
